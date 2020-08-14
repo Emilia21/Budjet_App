@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Budjet_App/static/css/main.c92aa993.chunk.css",
+    "main.js": "/Budjet_App/static/js/main.20a48b25.chunk.js",
+    "main.js.map": "/Budjet_App/static/js/main.20a48b25.chunk.js.map",
+    "runtime-main.js": "/Budjet_App/static/js/runtime-main.e1b3c64a.js",
+    "runtime-main.js.map": "/Budjet_App/static/js/runtime-main.e1b3c64a.js.map",
+    "static/js/2.8a4d59a6.chunk.js": "/Budjet_App/static/js/2.8a4d59a6.chunk.js",
+    "static/js/2.8a4d59a6.chunk.js.map": "/Budjet_App/static/js/2.8a4d59a6.chunk.js.map",
+    "index.html": "/Budjet_App/index.html",
+    "precache-manifest.ee2b70ed6ec943e95d57dc85bda7691e.js": "/Budjet_App/precache-manifest.ee2b70ed6ec943e95d57dc85bda7691e.js",
+    "service-worker.js": "/Budjet_App/service-worker.js",
+    "static/css/main.c92aa993.chunk.css.map": "/Budjet_App/static/css/main.c92aa993.chunk.css.map",
+    "static/js/2.8a4d59a6.chunk.js.LICENSE.txt": "/Budjet_App/static/js/2.8a4d59a6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e1b3c64a.js",
+    "static/js/2.8a4d59a6.chunk.js",
+    "static/css/main.c92aa993.chunk.css",
+    "static/js/main.20a48b25.chunk.js"
+  ]
+}
